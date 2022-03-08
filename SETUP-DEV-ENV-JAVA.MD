@@ -65,7 +65,7 @@ We will refer to ```C:\systematic-workshops\software\archive_name``` as ```JAVA_
 
 #### 2.1.3. Verify
 
-- Close all command lines and open applications.
+- Close all command lines and close all other applications.
 - Open a command line, write and run ```java -version```. You should get a result as follows:
   ![Alt Text](test-java-version.gif)
 

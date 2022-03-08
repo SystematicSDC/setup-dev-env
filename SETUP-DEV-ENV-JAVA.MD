@@ -2,7 +2,7 @@
 
 ## GENERAL INFO
 
-This tutorial will work for Windows 10 x64 with Java 11+. If you have any other Windows version, architecture or OS, let
+This tutorial will work for Windows 10 x64 with Java 11+. If you have any other architecture or OS, let
 us know **immediately**.
 
 If you have Java 11+ and IntelliJ IDEA installed, you can skip steps 1 and 2 entirely.

@@ -1,3 +1,4 @@
+![Alt Text](sigla-text.png)
 # Welcome to the 2022 Systematic Workshops!
 
 ## GENERAL INFO

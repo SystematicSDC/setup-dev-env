@@ -1,5 +1,5 @@
 ![Alt Text](sigla-text.png)
-# Welcome to the 2022 Systematic Workshops!
+# Welcome to the Systematic Java Workshops!
 
 ## GENERAL INFO
 
@@ -40,6 +40,7 @@ It will make finding things easier.
 
 - download  ![code-cleanup-refactoring-java.zip](https://github.com/SystematicSDC/setup-dev-env/raw/main/code-cleanup-refactoring-java.zip)
 - extract to ```C:\systematic-workshops\code```
+- exact name of zip file may depend on your specific workshop.
 
 ![Alt Text](extract-code.gif)
 

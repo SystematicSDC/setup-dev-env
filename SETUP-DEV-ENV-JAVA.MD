@@ -38,7 +38,7 @@ It will make finding things easier.
 
 ### 2.0. Extract source code
 
-- download  ![dependency-injection-java.zip](https://github.com/SystematicSDC/setup-dev-env/raw/main/dependency-injection-java.zip)
+- download  ![code-cleanup-refactoring-java.zip](https://github.com/SystematicSDC/setup-dev-env/raw/main/code-cleanup-refactoring-java.zip)
 - extract to ```C:\systematic-workshops\code```
 - exact name of zip file may depend on your specific workshop.
 

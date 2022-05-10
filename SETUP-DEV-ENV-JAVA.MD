@@ -38,9 +38,9 @@ It will make finding things easier.
 
 ### 2.0. Extract source code
 
-- download  ![code-cleanup-refactoring-java.zip](https://github.com/SystematicSDC/setup-dev-env/raw/main/code-cleanup-refactoring-java.zip)
+- go to the ```exercises``` folder in the repository
+- depending on your workshop, download the appropriate zip file.
 - extract to ```C:\systematic-workshops\code```
-- exact name of zip file may depend on your specific workshop.
 
 ![Alt Text](extract-code.gif)
 
